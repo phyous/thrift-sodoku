@@ -37,7 +37,6 @@ Attempting to solve:
 |080|409|001|
 |000|005|863|
  ---+---+---
-
 Solution from server:
  ---+---+---
 |854|139|267|
