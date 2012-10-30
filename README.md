@@ -21,7 +21,7 @@ String) and outputs a solved version.
 5. Run client in a separate console (which generates request and prints output)
 >java -jar target/thrift-sodoku-client-1.0.jar
 
-5. Observe the beautifully logged data
+6. Observe the puzzle get solved
 ```text
 Attempting to solve:
  ---+---+---
